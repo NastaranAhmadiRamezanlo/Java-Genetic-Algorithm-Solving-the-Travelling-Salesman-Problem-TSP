@@ -1,0 +1,7 @@
+        //parameters
+        int numberOfSolution = 100;
+        int numberOfCity = 50;
+        int mutationRate = 40;
+        int maximumGeneration = 10000;
+        int numberOfMutation = Math.round((mutationRate * numberOfSolution) / 100);
+        int length = 700;
