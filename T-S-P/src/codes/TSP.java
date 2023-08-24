@@ -8,7 +8,6 @@ public class TSP {
      * 1 generate mutation solutions of initial population
      * 2 combine two solutions list (parents(solutionAndFitnessList) + childs(listOfMutationSolutions))
      * as one list(final list or middle population)
-     *
      * 3 sort final list based on fitness  value
      * 4 select popSize(solutionAndFitnessList) of top of sorted list
      * 5 while best solution not find. go to step 1
