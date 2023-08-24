@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TSP {
-    
     /**
      * 1 generate mutation solutions of initial population
      * 2 combine two solutions list (parents(solutionAndFitnessList) + childs(listOfMutationSolutions))
