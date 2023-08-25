@@ -6,7 +6,7 @@ Java Implementation for solving the Travelling Salesman Problem (TSP) Using Gene
 ## Results for 50 cities
 
 <p align="center">
-<img src="https://github.com/NastaranAhmadiRamezanlo/Java-Genetic-Algorithm-Solving-the-Travelling-Salesman-Problem-TSP/assets/141999993/fdc6c5c1-f156-4b34-9d75-3eace87d7fae"  width="700" height="700" />
+<img src="https://github.com/NastaranAhmadiRamezanlo/Java-Genetic-Algorithm-Solving-the-Travelling-Salesman-Problem-TSP/assets/141999993/fdc6c5c1-f156-4b34-9d75-3eace87d7fae"  width="500" height="500" />
 
 
 <img src="https://github.com/NastaranAhmadiRamezanlo/Java-Genetic-Algorithm-Solving-the-Travelling-Salesman-Problem-TSP/assets/141999993/a71ca917-6b8d-4af8-9cb3-179c186e7a1b" width="1000" height="700" />
