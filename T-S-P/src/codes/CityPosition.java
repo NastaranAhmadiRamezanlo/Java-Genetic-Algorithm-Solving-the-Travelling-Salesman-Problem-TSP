@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class CityPosition {
+    
     private double distance;
     private double sumDistanceCities = 0.0;
 
