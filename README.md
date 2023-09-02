@@ -5,6 +5,7 @@ This repository provides a Java implementation for solving the TSP using a Genet
 
 
 ----------------------------------------------------------------------------
+
 ## Results for 50 cities
 
 <p align="center">
